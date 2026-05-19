@@ -1,16 +1,14 @@
-## Hi there 👋
+Üdvözöl a Jankó PC
+Számítógép‑szerviz, kamerarendszer beállítás, adatmentés és számítástechnikai értékesítés Jánoshalmán
 
-<!--
-**jankopc/jankopc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Főbb szolgáltatások:
 
-Here are some ideas to get you started:
+PC és laptop javítás — tisztítás, karbantartás, alkatrészcsere
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Adatmentés — HDD, SSD, pendrive, telefon, memóriakártya
+
+Kamerarendszer beállítás — NVR/DVR, távoli elérés, WiFi kamerák
+
+Számítástechnikai értékesítés — új és felújított PC-k, laptopok, gamer gépek, alkatrészek
+
+Helyi kiszállás Jánoshalmán és környékén
